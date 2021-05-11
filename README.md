@@ -11,3 +11,4 @@ Use MPI_Gather for sending back the positions
 1. Ex5 Define a type called Student that stores information about students. Create a list of students, and
 then using n processors, search for one specific student.
 1. Ex6 Given a n elements array, perform sum, product, min and max of the elements, simultaneous, using 4 groups of processes.
+.
